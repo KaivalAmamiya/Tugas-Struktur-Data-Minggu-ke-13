@@ -192,3 +192,21 @@ python note_taking.py
 |---|---|
 | `note_taking.py` | Implementasi lengkap + demo |
 | `README.md` | Dokumentasi ini |
+
+## 🚀 Cara Menjalankan
+
+---
+
+### 1. Clone Repository
+
+```bash
+git clone https://github.com/KaivalAmamiya/Tugas-Struktur-Data-Minggu-ke-13.git
+cd Tugas-Struktur-Data-Minggu-ke-13
+```
+
+### 2. Jalankan Program
+
+```bash
+# File Python Note Taking
+python note_taking.py
+```
