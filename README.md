@@ -193,7 +193,7 @@ python note_taking.py
 | `note_taking.py` | Implementasi lengkap + demo |
 | `README.md` | Dokumentasi ini |
 
-## 🚀 Cara Menjalankan
+## Cara Menjalankan
 
 ---
 
